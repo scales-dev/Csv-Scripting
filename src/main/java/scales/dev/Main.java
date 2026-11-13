@@ -1,4 +1,4 @@
-package org.example;
+package scales.dev;
 
 import java.nio.file.Path;
 import java.util.ArrayList;

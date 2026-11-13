@@ -1,4 +1,4 @@
-package org.example;
+package scales.dev;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
